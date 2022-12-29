@@ -6,10 +6,6 @@ body {
     font-family: "Open Sans", sans-serif;
     overflow: hidden;
 }
-#container{
-    display: flex;
-    justify-content: space-between;
-}
 #content{
     background-color: #6D9773;
     color: aliceblue;
@@ -21,11 +17,10 @@ body {
 }
 h1{
     font-size: 55px;
-    display: flex;
+    margin-right: 80px;
 }
 h2{
-    font-weight: 300;
-    display: flex;
+    font-weight: 200;
 }
 img{
     height: 310px;
