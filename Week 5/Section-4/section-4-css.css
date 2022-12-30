@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: "Open sans", sans-serif;
+    background-color: #6D9773;
+}
+.split-column{
+    display: flex;
+    min-height: 450px;
+}
+.left{
+    width: 50%;
+}
+.right{
+    width: 50%;
+    padding: 5%;
+    color: white;
+}
+h1{
+    font-size: 50px;
+    margin-bottom: 190px;
+}
+h2{
+    line-height: 1.2cm;
+    font-weight: 100;
+}
